@@ -38,6 +38,7 @@ This dataset is subject to change if errors are found, but has been generated to
 
 ## LICENSES
 Visuals: Copyright Jesse Waite, 2018, ABLE/Sentinel Project.
+
 Reproduction (json) data: MIT License.
 
 The reproduction data is for academic research, and you are free to use and analyze it as you like, with proper citation. Analysis of publicly-shared content data for the sake of public awareness and research is explicitly protected by Fair Use. The internet is the new public square, so if these organizations didn't want their content analyzed, they should not have pushed it into the public square. Moreover, their recent political activity foregoes copyright claims under fair use, because political speech/content is public speech. As citizens, we often no longer consent to consume various content, it is either forced upon us, or influences those around us, including our policymakers. It is the right of citizens in a free republic to critique and analyze powerful entities, and to determine for themselves whether or not the distribution of information favored and pushed by those in power is appropriate to their interests.
