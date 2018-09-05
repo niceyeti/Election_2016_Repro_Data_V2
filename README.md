@@ -3,11 +3,9 @@
 ![](googlenews_rnc_liberals_ppmi_smoothed_2bin_avg.png)
 *A time series of Google-News' partisan anti-conservative content bias, 6-2011 thru 8-2018, analyzed using Sentinel and ppmi sentiment analysis of all content referring to either 'democrat' or 'republican' topic terms.*
 
+## Description
 This repo contains reproduction data for several analyses of the distribution of partisan/candidate/link
-bias of online media content during the 2016 election.
-
-The files prefixed with 'chunk' are pieces of a zip file named 2016_Election_Data.zip,
-which contains a dump of all reproduction data and a collection of visuals for the analyses
+bias of online media content during the 2016 election. The files prefixed with 'chunk' are pieces of a zip file named 2016_Election_Data.zip, which contains a dump of all reproduction data and a collection of visuals for the analyses
 detailed in the "Using Textual Analysis to Detect Misinformation and Political Bias.docx" file.
 
 ## Data reassembly
