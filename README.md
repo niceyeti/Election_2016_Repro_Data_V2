@@ -39,8 +39,8 @@ The associated "...filtered.json" file contains each file after filtering and te
 This dataset is subject to change if errors are found, but has been generated to the highest level of accuracy obtainable. If you find any errors, please make a pull request or submit an issue/bug.
 
 ## LICENSES
-Visuals: Copyright Jesse Waite, 2018, ABLE/Sentinel Project.
+Visuals, methods, paper, (everything but the data): Copyright Jesse Waite, 2018, ABLE/Sentinel Project.
 
 Reproduction (json) data: MIT License.
 
-The reproduction data is for academic research, and you are free to use and analyze it as you like, with proper citation. Analysis of publicly-shared content data for the sake of public awareness and research is explicitly protected by Fair Use.
+The reproduction data is for academic research, and you are free to use and analyze it as you like, with proper citation. Analysis of publicly-shared content data for the sake of public awareness, critique, and research is explicitly protected by Fair Use.
