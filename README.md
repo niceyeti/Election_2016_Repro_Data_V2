@@ -1,8 +1,7 @@
 # ABLE/Sentinel 2016 Election Reproduction Data
 
 ![](googlenews_rnc_liberals_ppmi_smoothed_2bin_avg.png)
-Google News' partisan bias, 6-2011 thru 8-2018, analyzed using Sentinel and ppmi sentiment analysis of all
-content referring to either 'democrat' or 'republican' topic terms.
+*A time series of Google-News' partisan anti-conservative content bias, 6-2011 thru 8-2018, analyzed using Sentinel and ppmi sentiment analysis of all content referring to either 'democrat' or 'republican' topic terms.*
 
 This repo contains reproduction data for several analyses of the distribution of partisan/candidate/link
 bias of online media content during the 2016 election.
